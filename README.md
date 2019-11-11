@@ -1,0 +1,2 @@
+# poryecto_redes_requenas
+Este es un proyecto académico en el marco del curso de redes complejas ofrecido por el departamento de física de la Universidad Nacional de Colombia. La idea es tomar un ejemplo de red compleja compuesta por un cantidad reducida de nodos, y analizar propiedades básicas de centralidad con el uso de herramientas como UNICET y Python 3.7. Puede ser modificado en función de favorecer el entendimeinto y minar más información de las interacciones simples entre una cantidad reducida de neuronas de la corteza frontal del cerebro de un minino.
